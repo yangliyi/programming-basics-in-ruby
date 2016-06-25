@@ -78,7 +78,13 @@
 
 範例
 
-	puts "請輸入你的名字"
-	a = gets # 輸入 Stephen Curry
-	puts "Hi, #{a}" # Hi, Stephen Curry
+	puts "請輸入一個數字"
+	user_input = gets # 輸入 6
+	result = user_input.to_i * 2
+	puts "#{user_input} 乘以二等於 #{result}"
+	
+## 練習題
+* 變數交換: 假設有 a,b 兩個變數，請交換兩者的值
+* 使用者輸入名字，輸出 "Hello, 名字"
+* 使用者輸入直角三角形的寬和高，輸出三角形的面積
 
