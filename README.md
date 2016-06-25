@@ -17,9 +17,9 @@ Ruby
 
 ### 基礎觀念
 * 什麼是程式語言
+* 註解
+* puts 
 * 資料型別
-  * 註解
-  * puts 
   * 字串(String)
   * 數字(Numbers)、算術運算子(Operations)
   * 型別轉換
