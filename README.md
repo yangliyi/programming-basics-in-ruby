@@ -17,16 +17,16 @@ Ruby
 
 ### 基礎觀念
 * 什麼是程式語言
-* 資料類型
+* 資料型別
+  * 註解
+  * puts 
   * 字串(String)
   * 數字(Numbers)、算術運算子(Operations)
-  * puts 
   * 型別轉換
 * 變數(Variable)
   * 什麼是變數
   * 如何使用變數
   * gets
-  * 範疇(scope) 
 
 ### 函式(Methods / Functions)
 * 什麼是函式
